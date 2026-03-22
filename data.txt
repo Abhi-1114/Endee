@@ -1,0 +1,4 @@
+Machine learning is a field of artificial intelligence.
+Deep learning is a subset of machine learning.
+Neural networks are used in deep learning.
+Artificial intelligence is transforming industries.
